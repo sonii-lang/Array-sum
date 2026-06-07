@@ -1,0 +1,2 @@
+# Array-sum
+code practice
